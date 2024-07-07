@@ -6,9 +6,8 @@ img_alt: Iridescent ripples of a bright blue and pink liquid
 description: The SFive Booking Management System is designed to streamline and manage the operations of the SFive football center. This application allows for easy handling of bookings, adding new clients, and generating invoices for bookings.
 
 tags:
-  - User Experience
-  - React.js, Node.js, SQL, Tailwind
-  - Clever Cloud, Heroku
+  - React/Node
+  - Clever Cloud
 ---
 
 ### Booking Management

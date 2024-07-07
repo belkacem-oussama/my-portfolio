@@ -7,8 +7,7 @@ description: |
   Freelance Web Developer.
 tags:
   - SaaS
-  - HTML, CSS
-  - JavaScript, PHP, SQL
+  - JS, PHP, SQL
 ---
 
 ### SQL Queries and Reporting
