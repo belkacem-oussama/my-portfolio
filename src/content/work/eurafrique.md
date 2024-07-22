@@ -1,5 +1,5 @@
 ---
-title: EurAfrique Benevolent Management
+title: EurAfrique
 publishDate: 2020-03-04 00:00:00
 img: /assets/eurafrique1.png
 img_alt: Non-profit
