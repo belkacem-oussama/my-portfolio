@@ -10,7 +10,7 @@ tags:
   - Java
 ---
 
-### Open-Source Developper
+### Open-Source Developer
 
 I have actively contributed to open source projects, including the development of a mobile application designed to facilitate hospital visits for patients. This project focused on enhancing the experience of visitors and improving patient interactions within hospital settings.
 
