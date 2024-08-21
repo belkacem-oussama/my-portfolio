@@ -2,7 +2,7 @@
 title: Ummah Charity
 publishDate: 2019-12-01 00:00:00
 img: /assets/ummah_charity.png
-img_alt: Freelance
+img_alt: Non-profit
 description: |
   Freelance Web Developer.
 tags:

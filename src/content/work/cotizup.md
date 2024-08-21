@@ -2,7 +2,7 @@
 title: Cotiz'Up
 publishDate: 2019-10-02 00:00:00
 img: /assets/cotizup.png
-img_alt: Soft pink and baby blue water ripples together in a subtle texture.
+img_alt: Crowdfunding
 description: |
   Freelance Front-end Developer
 tags:

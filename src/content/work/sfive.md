@@ -2,7 +2,7 @@
 title: SFive
 publishDate: 2020-03-02 00:00:00
 img: /assets/SFive.png
-img_alt: Iridescent ripples of a bright blue and pink liquid
+img_alt: Sport
 description: The SFive Booking Management System is designed to streamline and manage the operations of the SFive football center. This application allows for easy handling of bookings, adding new clients, and generating invoices for bookings.
 
 tags:

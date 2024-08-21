@@ -2,7 +2,7 @@
 title: What's The Movie ?
 publishDate: 2019-10-02 00:00:00
 img: /assets/wtm-1.png
-img_alt: Little game !
+img_alt: Game
 description: |
   Web Developer
 tags:
